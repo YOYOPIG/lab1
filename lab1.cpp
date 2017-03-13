@@ -15,5 +15,6 @@ int main()
 			n = n/2;
 	cout<<" "<<n;
 	}
+	cout<<endl;
 	return 0;
 }
