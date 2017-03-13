@@ -1,0 +1,11 @@
+スクリプトは 廿十七年三月十三日 (週一) 廿一時45分廿五秒
+ に開始しました]0;yoyopig@yoyopig-VirtualBox: ~/デスクトップ/lab1/lab1[01;32myoyopig@yoyopig-VirtualBox[00m:[01;34m~/デスクトップ/lab1/lab1[00m$ git clone https://github.comm/YOYOPIG/lab1.git[A]0;yoyopig@yoyopig-VirtualBox: ~/デスクトップ/lab1/lab1[01;32myoyopig@yoyopig-VirtualBox[00m:[01;34m~/デスクトップ/lab1/lab1[00m$ [C[C[C[C[C[14Ponfig -l
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Clone https://github.comm/YOYOPIG/lab1.git[A]0;yoyopig@yoyopig-VirtualBox: ~/デスクトップ/lab1/lab1[01;32myoyopig@yoyopig-VirtualBox[00m:[01;34m~/デスクトップ/lab1/lab1[00m$ [C[C[C[C[C[14Ponfig -l
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Pwhoami;pwdsudo apt install git[1P[C[C[C[C[C[C[C[C[1@s[C[C[C[C[C[C[C[C[10Pwhoami;pwdgit config -llone https://github.comm/YOYOPIG/lab1.git[A]0;yoyopig@yoyopig-VirtualBox: ~/デスクトップ/lab1/lab1[01;32myoyopig@yoyopig-VirtualBox[00m:[01;34m~/デスクトップ/lab1/lab1[00m$ [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./lab1 [K
+input n : 22
+22 11 34 17 52 26 13 40 20 10 5 16 8 4 2 1
+]0;yoyopig@yoyopig-VirtualBox: ~/デスクトップ/lab1/lab1[01;32myoyopig@yoyopig-VirtualBox[00m:[01;34m~/デスクトップ/lab1/lab1[00m$ exit
+
+スクリプトは 廿十七年三月十三日 (週一) 廿一時45分52秒
+ に終了しました
